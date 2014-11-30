@@ -23,7 +23,7 @@ None yet
 
 == Screenshots ==
 
-Nothing to see here... Move along.
+1. Configuration
 
 == Changelog ==
 
